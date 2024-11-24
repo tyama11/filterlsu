@@ -5,7 +5,7 @@
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
 
-
+zenn.dev##footer
 qiita.com##footer
 ! Last updated: 2024-11-14
 gizmodo.jp##.l-videoArea
