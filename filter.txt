@@ -7,6 +7,9 @@
 ! Last updated: 2024-11-14
 
 
+pc.watch.impress.co.jp##.list-02 daily-block summary
+
+
 ! 2024-11-14
 inoreader.com###promo_dialog_scroll_overlay
 inoreader.com###top-notifications
