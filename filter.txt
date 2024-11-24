@@ -5,7 +5,7 @@
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
 ! Last updated: 2024-11-14
-
+ascii.jp###pickupAD
 
 pc.watch.impress.co.jp###summary-block
 pc.watch.impress.co.jp###daily-block-0
