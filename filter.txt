@@ -7,7 +7,7 @@
 ! Last updated: 2024-11-14
 
 
-pc.watch.impress.co.jp##.list-02*
+pc.watch.impress.co.jp##."list-02 daily-block summary"
 
 
 ! 2024-11-14
