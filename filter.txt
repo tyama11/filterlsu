@@ -7,8 +7,8 @@
 
 
 ! Last updated: 2024-11-14
-
-
+gizmodo.jp##.l-videoArea
+gigazine.net###subNav
 syosetu.com##.l-slider
 syosetu.com###tieup
 syosetu.com##.l-subbar
