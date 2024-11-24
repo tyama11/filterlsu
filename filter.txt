@@ -4,7 +4,24 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
+
+
+
+
 ! Last updated: 2024-11-14
+
+
+syosetu.com##.l-slider
+syosetu.com###tieup
+syosetu.com##.l-subbar
+kakuyomu.jp###information
+kakuyomu.jp##.widget-board
+pc.watch.impress.co.jp###summary-block
+pc.watch.impress.co.jp###daily-block-0
+pc.watch.impress.co.jp##."group type-1"
+pc.watch.impress.co.jp###release-atpress-block
+
+
 ascii.jp###pickupAD
 
 pc.watch.impress.co.jp###summary-block
