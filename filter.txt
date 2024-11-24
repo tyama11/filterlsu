@@ -1,13 +1,11 @@
 [Adblock Plus 2.0]
-! Title: 280blocker adblock filter
-! Homepage: https://280blocker.net
-!
+! Title: tyam11 adblock filter
 ! Licence: 
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
 ! Last updated: 2024-11-14
-##.blocker280-20241114
+
 
 ! 2024-11-14
 inoreader.com###promo_dialog_scroll_overlay
