@@ -8,6 +8,7 @@
 
 ! Last updated: 2024-11-14
 gizmodo.jp##.l-videoArea
+gizmodo.jp##.l-footer
 gigazine.net###subNav
 syosetu.com##.l-slider
 syosetu.com###tieup
