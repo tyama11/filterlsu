@@ -11,6 +11,9 @@ kakuyomu.jp###publication
 kakuyomu.jp###browse
 kakuyomu.jp###globalFooter
 kakuyomu.jp##.pickupLink
+kakuyomu.jp###firstView-aside-appLink
+kakuyomu.jp###shareButtons
+kakuyomu.jp###corporateCounter
 
 ! Last updated: 2024-11-14
 gizmodo.jp##.l-videoArea
