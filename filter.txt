@@ -14,6 +14,7 @@ kakuyomu.jp##.pickupLink
 kakuyomu.jp###firstView-aside-appLink
 kakuyomu.jp###shareButtons
 kakuyomu.jp###corporateCounter
+kakuyomu.jp###message-guestUser
 
 ! Last updated: 2024-11-14
 gizmodo.jp##.l-videoArea
