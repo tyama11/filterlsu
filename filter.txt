@@ -10,6 +10,7 @@ qiita.com##footer
 kakuyomu.jp###publication
 kakuyomu.jp###browse
 kakuyomu.jp###globalFooter
+kakuyomu.jp##.pickupLink
 
 ! Last updated: 2024-11-14
 gizmodo.jp##.l-videoArea
