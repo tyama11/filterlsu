@@ -4,7 +4,7 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-
+hatena.ne.jp###footer
 zenn.dev##footer
 qiita.com##footer
 kakuyomu.jp###publication
