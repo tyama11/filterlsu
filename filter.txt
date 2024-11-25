@@ -5,8 +5,6 @@
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
 
-
-hatena.ne.jp###__next
 hatena.ne.jp###footer
 hatena.ne.jp##.footer
 zenn.dev##footer
