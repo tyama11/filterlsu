@@ -6,7 +6,7 @@
 !
 
 
-hatena.ne.jp##.Footer_footer*
+hatena.ne.jp###__next
 hatena.ne.jp###footer
 hatena.ne.jp##.footer
 zenn.dev##footer
