@@ -43,7 +43,7 @@ pc.watch.impress.co.jp###release-atpress-block
 pc.watch.impress.co.jp##footer
 ! 2024-11-14
 inoreader.com###promo_dialog_modal_overlay
-inoreader.com###top-notifications
+inoreader.com##.top-notifications
 
 
 linxas.shop##.footer-mobel
