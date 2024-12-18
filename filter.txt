@@ -45,6 +45,8 @@ pc.watch.impress.co.jp##footer
 inoreader.com###promo_dialog_modal_overlay
 inoreader.com##.top-notifications
 
+inoreader.com###top-notifications
+
 
 linxas.shop##.footer-mobel
 eromanga-daisuki.com,eromanga-time.com,sportingnews.com,bl-archive.net,missav.com,milk-candy.net,absurd.blogo.jp,scienceplus2ch.com,syurabahazard.com,kitizawa.com,kijonotakuhaibin.com,chansoku.com,onihimechan.com,sutekinakijo.com,koredakedeok.blog.jp,news4wide.livedoor.biz,r2z.hateblo.jp,vsnp.net,social-trend.jp,pawasp.blog.jp,pwapro001.blog.jp,xn--shadowverse-e63t796khk9bk11e.com,xn--odkig3fli8641erzf08xdgre0sozdl78ik6e.com,pawaspnews.blog.jp,pawa-2014.blog.jp,pawapuro-app.com,spsoku.com,neetetsu.com,sophiech.blog.jp##a[href*="bit.ly/"]
