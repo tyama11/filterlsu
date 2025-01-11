@@ -21,8 +21,13 @@ kakuyomu.jp###message-guestUser
 ! Last updated: 2024-11-14
 gizmodo.jp##.l-videoArea
 gizmodo.jp##.l-footer
+gigazine.net###donation_wrapper
+gigazine.net###donation_footer
+
 gigazine.net###subNav
 syosetu.com##.l-slider
+syosetu.com##.l-foot-contents
+
 syosetu.com###tieup
 syosetu.com##.l-subbar
 kakuyomu.jp###information
